@@ -1,3 +1,5 @@
+Start the code with npm install in the terminal in vs code and then begin with npm start 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
